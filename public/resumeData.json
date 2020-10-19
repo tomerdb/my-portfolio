@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Tomer Harari",
+    "occupation": "ReactJS Developer",
+    "description": "Front-End React Developer",
+    "image": "profile.jpg",
+    "bio": "My name is Tomer, I'm a Front-End ReactJS Developer. Recently finished Coding boot-camp at Sv-College highly motivated new developer",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "tomerdb@gmail.com",
+    "phone": "+972 52 647 7102",
+    "address": {
+      "street": "Merkaz baalei melacha 4",
+      "city": "Tel-Aviv",
+      "state": "Israel",
+      "zip": "6382306"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "",
+    "social": [{
+        "name": "facebook",
+        "url": "https://www.facebook.com/tomer.harari.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tomer-harari-268928168/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tomerdb",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [{
+      "school": "Sv-College",
+      "degree": "Front-End Course",
+      "graduated": "2020",
+      "description": "Specialized in ReactJS"
+    }],
+    "work": [{
+        "company": "balblabla",
+        "title": "bla%bla%bla",
+        "years": "April 2020 - Present",
+        "description": "blalbalblalballba."
+      },
+      {
+        "company": "blalbalbla",
+        "title": "blalbla",
+        "years": "Nov 2019 - April 2020",
+        "description": "blalblalbalbalabla."
+      }
+    ],
+    "skills": [{
+        "name": "ReactJs",
+        "level": "90%",
+        "icon": "fab fa-react",
+        "color": "#4ED8FA"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%",
+        "icon": "fab fa-js-square",
+        "color": "#E4E426"
+      },
+      {
+        "name": "CSS3",
+        "level": "80%",
+        "icon": "fab fa-css3-alt",
+        "color": "#1C67BC"
+      },
+      {
+        "name": "Git",
+        "level": "60%",
+        "icon": "fab fa-github",
+        "color": "black"
+      },
+      {
+        "name": "Node.js",
+        "level": "70%",
+        "icon": "fab fa-node-js",
+        "color": "rgb(89, 151, 54)"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%",
+        "icon": "fab fa-html5",
+        "color": "rgb(241, 101, 41)"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%",
+        "img": "mongoDbLogo"
+      }, {
+        "name": "Fire Base",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "twitter-clone",
+        "category": "Express, NodeJS, HTML, CSS",
+        "image": "twitter-clone.png",
+        "url": "https://zen-hopper-a64855.netlify.app"
+      },
+      {
+        "title": "Google-store-locator",
+        "category": "MongoDB, Express, NodeJS, Html, CSS",
+        "image": "google-store-loactor-clone.png",
+        "url": "https://compassionate-banach-b560bd.netlify.app"
+      },
+      {
+        "title": "amazon-clone",
+        "category": "FireBase, Express, React, NodeJS",
+        "image": "amazon-clone.png",
+        "url": "https://clone-5a923.web.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [{
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
